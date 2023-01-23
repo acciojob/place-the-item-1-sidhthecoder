@@ -1,2 +1,14 @@
+#holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-start;
+    margin: 0 -5px;
+}
+
+.item {
+    flex: 1;
+    margin: 0 5px;
+}
 
 /* Your CSS Code here. */
