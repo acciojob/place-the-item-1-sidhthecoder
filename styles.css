@@ -3,15 +3,8 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.first{
-	left:0;
-}
-.last{
-	right:0;
-}
 .item {
-    flex: 1;
-    margin: 0 5px;
+    width:100%;
 }
 
 /* Your CSS Code here. */
