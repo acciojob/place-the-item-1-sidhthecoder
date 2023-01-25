@@ -1,8 +1,8 @@
-#holder {
+.holder {
     display: flex;
     justify-content: space-between;
 }
-.item {
+.holder div{
     width:100px;
 	height:100px;
 }
